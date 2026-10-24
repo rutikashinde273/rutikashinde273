@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rutika Shinde</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=Aspiring+Blue+Team+%2F+SOC+Analyst;Python+%26+Java+Developer;Web+Developer+%7C+Security+Enthusiast;Always+learning%2C+always+building" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1500&color=00C2A8&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I%27m+Rutika+Shinde+%F0%9F%91%8B" alt="Rutika Shinde" />
 </p>
 
 <p align="center">
@@ -62,19 +60,13 @@ Zero-Trust document security system. A Chrome extension intercepts downloads and
 - 🛠️ Built: SSH brute-force detection in Splunk and DocuChain, a blockchain-backed document security platform
 
 ## 🎯 Preferences
-- Interested in: Blue team, SOC work, incident response, web development
+- Interested in: Blue team, incident response, web development
 - Ask me about: Python, Splunk, Wireshark packet analysis, Linux, Nmap
 - Open to: Collaboration, internships, open-source projects
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutikashinde273&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikashinde273&layout=compact&theme=tokyonight" height="150" />
-</p>
 
 ## 📫 Connect With Me
 📍Mumbai,India
 - 📧 Email: rutika2005.shinde@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/rutika-shinde](https://www.linkedin.com/in/rutika-shinde/)
 
-  
+> ⚠️ I only test security tools on systems I own or have permission to test.
